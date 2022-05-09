@@ -59,7 +59,7 @@ export const CarouselBox= styled(Box)(()=>({
 position:"absolute",
 top:"80%",
 left:"18%",
-zIndex:999,
+zIndex:9,
 width:"1000px",
 backgroundColor:"rgb(158,158,158,.8)",
 height:"450px",
