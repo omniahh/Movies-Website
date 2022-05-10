@@ -19,7 +19,8 @@ const Navbar = () => {
   return (
     <>
       <Box component={"header"} position="sticky" zIndex={999}>
-        <StyledAppBar >
+        <StyledAppBar>
+
           <Toolbar>
             <Grid container>
               <Grid item hidden={LaptopView} xs={2}>

@@ -61,9 +61,10 @@ top:"80%",
 left:"18%",
 zIndex:9,
 width:"1000px",
-backgroundColor:"rgb(158,158,158,.8)",
+backgroundColor:"rgb(158,158,158,.3)",
 height:"450px",
-borderRadius:35
+borderRadius:35,
+backdropFilter: "blur(20px)"
 
 }))
 

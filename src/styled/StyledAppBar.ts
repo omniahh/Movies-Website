@@ -3,9 +3,9 @@ import { AppBar } from "@mui/material";
 
 export const StyledAppBar= styled(AppBar)(()=>({
 
-     backgroundColor: "rgb(0,0,0,0.6)" ,
+     background: "rgb(0,0,0,0.5)" ,
       height: "4em" ,
-   
+      backdropFilter: "blur(15px)",
 
       xs:{
           maxWidth:"320px"

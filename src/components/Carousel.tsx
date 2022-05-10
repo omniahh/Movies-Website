@@ -14,6 +14,7 @@ export const Carousel = () => {
   width="25%"
   borderRadius={5}
   position="relative" top="10%" left="25%"
+  
   />
 
 

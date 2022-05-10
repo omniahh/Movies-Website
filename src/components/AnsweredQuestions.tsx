@@ -86,7 +86,6 @@ const AnsweredQuestions = () => {
                           onClick={handleClick}
                           expandIcon={
                             <StyledExpandMoreIcon
-                              onClick={handleClick}
                               sx={{ color: arrowColor }}
                             />
                           }
