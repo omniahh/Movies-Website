@@ -40,9 +40,9 @@ const pulse= keyframes `
 //navbar
 export const LogoBox = styled(Box)(() => ({
       
-  maxWidth: "65px",
+ maxWidth:"65px",
   padding:"0",
-  margin:"0",
+  marginTop:"6px",
 
   
 
